@@ -10,7 +10,9 @@ This project implements a volume control system using hand gestures recognized t
 - **Cross-Platform Compatibility:** Works on various operating systems.
 
 #### How It Works
-**Capture Video Feed:** The system captures real-time video from the webcam.
-**Preprocessing:** Each frame is processed to detect and track hand movements.
-**Gesture Recognition:** Using a trained model, the system recognizes specific hand gestures.
-**Volume Adjustment:** Based on the recognized gesture, the system sends commands to adjust the audio volume accordingly.
+- **Capture Video Feed:** The system captures real-time video from the webcam.
+- **Preprocessing:** Each frame is processed to detect and track hand movements.
+- **Gesture Recognition:** Using a trained model, the system recognizes specific hand gestures.
+- **Volume Adjustment:** Based on the recognized gesture, the system sends commands to adjust the audio volume accordingly.
+
+**Contributions are welcome!**
